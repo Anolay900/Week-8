@@ -11,3 +11,7 @@
 .line {
     text-decoration: none;
 }
+
+.line:hover {
+    text-decoration: none;
+}
